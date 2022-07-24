@@ -7,4 +7,4 @@ It contains:
 
 ## Links:
 - Read the full medium post here: https://medium.com/@danilo.najkov/using-regression-techniques-to-predict-a-students-grade-for-a-course-a5042861a664
-- Check out the website: https://dalikepolozamvis.web.app/
+- Website: https://dalikepolozamvis.web.app/
